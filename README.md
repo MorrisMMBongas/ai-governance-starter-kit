@@ -54,4 +54,4 @@ You don't need to update the kit every time a new model comes out. Run the [AI u
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The NIST material referenced here isn't covered by this license, since US government works aren't under copyright in the United States.
 
 ## Author
-[Your name] · [LinkedIn link]
+Morris Martin Bongas · [[LinkedIn link]](https://www.linkedin.com/in/morris-martin-b-94487242/)
