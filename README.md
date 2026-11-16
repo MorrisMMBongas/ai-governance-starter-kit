@@ -6,7 +6,7 @@ Based on the [NIST AI Risk Management Framework (AI RMF 1.0)](https://doi.org/10
 This is a personal project. It isn't affiliated with or endorsed by NIST or my employer, and it isn't legal advice.
 
 ## Why I made this
-I'm exploring the idea of starting a software house in Manila, and I wanted a simple way to manage AI use from day one. This kit is what I'd use to start, and I'm sharing it so other small teams can use it too.
+I'm exploring the idea of starting my own software factory, and I wanted a simple way to manage AI use from day one. This kit is what I'd use to start, and I'm sharing it so other small teams can use it too.
 
 ## Who it's for
 - Startups and small companies that are starting to use AI tools
